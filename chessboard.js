@@ -1,3 +1,4 @@
+// Code written by Jared Smith for ch2 chessboard problem
 var chess1 = " # # # #"
 var chess2 = "# # # # "
 var size = 8
